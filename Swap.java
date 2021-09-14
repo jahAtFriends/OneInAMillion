@@ -7,7 +7,8 @@ public class Swap {
         int b = Integer.parseInt(args[1]);
         
         //If a and b are in the wrong order, swap them.
-        if () {}
+        if () {
+            
         }
         
         System.out.println(a + " < " + b);
