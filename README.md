@@ -9,7 +9,7 @@ choices of the user.
 Your program should generate a random number between 0 and 1 million. Next, it
 will prompt the user to enter a guess. If the user guesses the correct number,
 the program will stop. Otherwise it will inform the user whether the guess was
-_too hight_ or _too low_. The user should be given twenty guesses. If the user
+_too high_ or _too low_. The user should be given twenty guesses. If the user
 is able to guess correctly within those twenty guesses, the program stops and
 informs the user that he has won. Otherwise, the program stops after twenty
 guesses and declares victory.
