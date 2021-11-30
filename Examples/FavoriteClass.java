@@ -1,3 +1,4 @@
+import java.util.Scanner;
 public class FavoriteClass {
     
     public static void main(String[] args) {
@@ -8,13 +9,13 @@ public class FavoriteClass {
         String favorite = s.next();
         
         if (favorite.equals("Coding") || favorite.equals("Math")) {
-            System.out.println();
+            System.out.println("You are awesome!");
         }
         else if (favorite.equals("Science")) {
-            System.out.println();
+            System.out.println("Nerd!");
         }
         else {
-            System.out.println();
+            System.out.println("That's too bad...");
         }
         
     }
