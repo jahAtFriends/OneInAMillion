@@ -42,4 +42,4 @@ if (input.hasNextInt()) {
 ```
 
 If you would like more information on the Scanner class, [here are the javadocs](https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html)
-and there is a simpler tutorial [here](https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html).
+and there is a simpler tutorial [here](https://www.w3schools.com/java/java_user_input.asp).
